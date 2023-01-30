@@ -6,7 +6,7 @@
     <img src="public/wonderland.png" alt="Logo" width="160" height="160">
   </a>
 
-<h3 align="center">Wonderland DAO</h3>
+<h3 align="center">GnomeLand DAO</h3>
 
   <p align="center">
     <b>Landing Page Repository</b>
