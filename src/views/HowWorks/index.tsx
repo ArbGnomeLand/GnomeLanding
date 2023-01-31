@@ -25,7 +25,7 @@ function HowWorks() {
                 textList={[
                     "GnomeLand is a decentralized autonomous organization of gnomes, living through our governance token, Gnomes.",
                     "To participate in the Gnomes DAO, buy wMEME tokens. These tokens can be used to vote on protocol proposals and direct the future of the project.",
-                    "They can also be staked in a revenue sharing contract to benefit from the treasury performance.",
+                    "They can also be staked in a revenue-sharing contract to benefit from the Gnome Treasury's performance.",
                 ]}
                 image={DescWorkImage}
             />
